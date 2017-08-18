@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HCSStarRatingView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-quizApp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-quizAppTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-quizAppUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SCSQLite.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>40E9DCFA574B35667F413D8AE9735C4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>45FF4A7AFE5D8E17D01023C53AED87FF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>606D4F386A22C5EB43E7BAAFF4FDD3C4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9850F487C04D9F2209B9DEE406942E01</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DE5099CB6182397392401F4AFD7A9E58</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

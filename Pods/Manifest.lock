@@ -1,0 +1,15 @@
+PODS:
+  - HCSStarRatingView (1.5)
+  - SCSQLite (1.0)
+
+DEPENDENCIES:
+  - HCSStarRatingView (~> 1.5)
+  - SCSQLite
+
+SPEC CHECKSUMS:
+  HCSStarRatingView: 1d18f79654735514cd6f00e6d90e38cb6320dc31
+  SCSQLite: 44f57f50f15ce96d6c83f771ed1d39fcd9574ab8
+
+PODFILE CHECKSUM: 7d4d4947c09ac1b8e46dc511abb4cdae222936ef
+
+COCOAPODS: 1.2.1
